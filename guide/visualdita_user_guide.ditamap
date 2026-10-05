@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Visual DITA User Guide</title>
+    <topicmeta>
+        <author type="creator">Yves.Barbion</author>
+        <critdates>
+            <created date="2026-10-05"/>
+            <!--Yves.Barbion-->
+            <revised modified="2026-10-05"/>
+        </critdates>
+    </topicmeta>
+    <topicref format="markdown" href="README.md" keys="README"/>
+    <topicref format="markdown" href="checking.md" keys="checking"/>
+    <topicref format="markdown" href="document-types.md"
+        keys="document-types"/>
+    <topicref format="markdown" href="getting-started.md"
+        keys="getting-started"/>
+    <topicref format="markdown" href="glossary.md" keys="glossary"/>
+    <topicref format="markdown" href="maps.md" keys="maps"/>
+    <topicref format="markdown" href="publishing.md" keys="publishing"/>
+    <topicref format="markdown" href="review-and-compare.md"
+        keys="review-and-compare"/>
+    <topicref format="markdown" href="search.md" keys="search"/>
+    <topicref format="markdown" href="tables.md" keys="tables"/>
+    <topicref format="markdown" href="writing.md" keys="writing"/>
+</map>
